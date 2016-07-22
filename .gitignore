@@ -1,0 +1,9 @@
+.DS_Store
+x64/
+GP_on_GPU/x64
+*.sln
+*.suo
+*.sdf
+*.csv
+GP_on_GPU/*.pdb
+GP_on_GPU/*.vc*
